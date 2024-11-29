@@ -1,0 +1,25 @@
+.divnombre {
+    color: black !important;
+    background-color: white !important; 
+    border-color: white !important;
+}
+.verificado {
+    color: #155724;
+    width: 60vw;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    position: absolute;
+    padding: .75rem 1.25rem;
+    margin-top: 0.8vh;
+    margin-bottom: 1vh;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
+.linknombre{
+    color: rgb(41, 162, 238) !important;
+    font-weight: 100;
+}
+
+.linknombre:hover{
+    color: rgb(36, 73, 221) !important;
+}
